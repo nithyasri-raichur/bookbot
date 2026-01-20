@@ -1,6 +1,6 @@
 # bookbot
 
-A Python program that analyzes novels and prints a statistical report of the word and character usage found within.
+A Python CLI program that analyzes novels and prints a statistical report of the word and character usage found within.
 
 # Usage 
 Run the script with the plain text file path 
